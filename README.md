@@ -1,3 +1,3 @@
 # demo
 this is my first git repo
-author- anshika
+author- anshika gupta
